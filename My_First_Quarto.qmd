@@ -1,0 +1,15 @@
+---
+title: "My first quarto file"
+format: html
+editor: visual
+---
+
+## My first Quarto file
+
+In this report, I will talk about **my apples**. I will first define the object `my_apples`.
+
+```{r}
+my_apples <- 2
+```
+
+I have `r my_apples` apples in total.
