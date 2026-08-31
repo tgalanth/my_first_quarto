@@ -2,6 +2,7 @@
 title: "My first quarto file"
 format: html
 editor: visual
+author: Ted Galanthay
 ---
 
 ## My first Quarto file
